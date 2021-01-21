@@ -1,4 +1,5 @@
-Knuth's paper describing the algorithm (and applying it to pentominoes):
+Knuth's paper describing the algorithm (and giving the idea to apply it to
+pentominoes).
 https://arxiv.org/pdf/cs/0011047.pdf
 
 Sudoku test file taken from //https://github.com/shadaj/sudoku
