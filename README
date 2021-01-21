@@ -1,0 +1,14 @@
+Knuth's paper describing the algorithm (and applying it to pentominoes):
+https://arxiv.org/pdf/cs/0011047.pdf
+
+Sudoku test file taken from //https://github.com/shadaj/sudoku
+Honestly we used that test file in class using another algorithm in python
+and I wanted to see how much faster this would be.
+
+I worked on this a while ago and I decided to put it on github.
+There are no tests and the main.cpp file isn't great (with a little work it
+could take command line inputs).
+main.cpp how some functions that do various things explained in the comments.
+Without command line inputs, just call those functions in main.
+
+to run, make and make clean should work.
